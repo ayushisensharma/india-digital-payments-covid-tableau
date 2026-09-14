@@ -96,21 +96,4 @@ The dashboard highlights several important patterns:
 |---|---|
 | `UPI_dashboard.twb` | Tableau workbook containing the interactive digital payments dashboard |
 
----
 
-## 📌 Research Context
-
-The dashboard accompanies an analysis titled:
-
-**"Not All Digital Payments Are Equal: COVID-19's Divergent Impact on UPI and Aggregate Digital Payments in India"**
-
-The broader analysis examines changes in India's digital payment system around the COVID-19 period using monthly data and an Interrupted Time Series (ITS) framework. :contentReference[oaicite:0]{index=0}
-
----
-
-## 🎓 Project
-
-**Course:** Advanced Econometrics-II  
-**Programme:** FY MSc Economics-A  
-**Institution:** Symbiosis School of Economics  
-**Year:** 2026
